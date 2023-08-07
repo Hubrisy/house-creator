@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/house-creator/static/css/main.3e06711e.css",
+    "main.js": "/house-creator/static/js/main.aed0f094.js",
+    "static/js/787.adb94dc3.chunk.js": "/house-creator/static/js/787.adb94dc3.chunk.js",
+    "static/media/projectThree.svg": "/house-creator/static/media/projectThree.36065249bc86cde089e2a746f901dfaa.svg",
+    "static/media/projectFour.svg": "/house-creator/static/media/projectFour.0d2ac79eecaeb3de329905334d993b5a.svg",
+    "static/media/projectFive.svg": "/house-creator/static/media/projectFive.2cb56325c5897e038168a5f246a1dd51.svg",
+    "static/media/projectTwo.svg": "/house-creator/static/media/projectTwo.2d5fbefd9a940851b2ebe44a0fa47633.svg",
+    "static/media/projectOne.svg": "/house-creator/static/media/projectOne.385f5db8b8ac34000e3e519c9e4dc117.svg",
+    "static/media/companyThree.svg": "/house-creator/static/media/companyThree.f3ae3ffbe83172721c4701b3822957b7.svg",
+    "static/media/HousePhotoOne.svg": "/house-creator/static/media/HousePhotoOne.2210cd4fa01a5b2516d54b22223f647d.svg",
+    "static/media/TTHoves-Regular.ttf": "/house-creator/static/media/TTHoves-Regular.22badb647628141aaacb.ttf",
+    "static/media/contactUs.svg": "/house-creator/static/media/contactUs.572142df4f08a58135908c9c49e015cc.svg",
+    "static/media/companyTwo.svg": "/house-creator/static/media/companyTwo.4852da92c7cf1d09c50666299de82146.svg",
+    "static/media/companyOne.svg": "/house-creator/static/media/companyOne.6911194214a0ca3cbbe8f4e08aecd41a.svg",
+    "static/media/TTHoves-Regular.woff": "/house-creator/static/media/TTHoves-Regular.495bcecc479d22afb699.woff",
+    "static/media/TTHoves-Regular.woff2": "/house-creator/static/media/TTHoves-Regular.2cb6726809285d301e2b.woff2",
+    "static/media/Logo.svg": "/house-creator/static/media/Logo.e33061f24319c9d4aca34b24580d5020.svg",
+    "static/media/phone.svg": "/house-creator/static/media/phone.f75324108f6f306487300f14fbe6799a.svg",
+    "static/media/LogoBlack.svg": "/house-creator/static/media/LogoBlack.4039a2095c9e4e80244449ccec29314e.svg",
+    "static/media/wtfisthat.svg": "/house-creator/static/media/wtfisthat.0cf6561fef0165da2c7da8e213d2b3d9.svg",
+    "static/media/twitter.svg": "/house-creator/static/media/twitter.110d169193190d2f29e701bbcefe48a9.svg",
+    "static/media/linkedin.svg": "/house-creator/static/media/linkedin.b3a9afd3431b603dc821442cbc67b7e5.svg",
+    "static/media/goalTwo.svg": "/house-creator/static/media/goalTwo.d177d7a93f63567399c8afcec6c42d93.svg",
+    "static/media/location.svg": "/house-creator/static/media/location.b37a64142d1812dab95b86c10173a7bc.svg",
+    "static/media/mail.svg": "/house-creator/static/media/mail.f89736e3d11e4cf40e0cd95f709f033b.svg",
+    "index.html": "/house-creator/index.html",
+    "static/media/arrowRight.svg": "/house-creator/static/media/arrowRight.4a9add6915abdffb28043d3a0cca7bf1.svg",
+    "static/media/arrowRight-white.svg": "/house-creator/static/media/arrowRight-white.0a410b30fc30fa219b1ebeb595261a70.svg",
+    "static/media/arrowLeft.svg": "/house-creator/static/media/arrowLeft.bca63f4c9bf566734d6fec31a0ac3ff3.svg",
+    "static/media/facebook.svg": "/house-creator/static/media/facebook.12a314b124f47ead9d1424b11aaeb5f9.svg",
+    "static/media/goalOne.svg": "/house-creator/static/media/goalOne.54b7836f3ae6d68187cd9ee235fbb842.svg",
+    "main.3e06711e.css.map": "/house-creator/static/css/main.3e06711e.css.map",
+    "main.aed0f094.js.map": "/house-creator/static/js/main.aed0f094.js.map",
+    "787.adb94dc3.chunk.js.map": "/house-creator/static/js/787.adb94dc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e06711e.css",
+    "static/js/main.aed0f094.js"
+  ]
+}
