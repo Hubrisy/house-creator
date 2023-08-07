@@ -1,0 +1,82 @@
+.gallery_main-container{
+    height: 830px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+
+    .gallery_name{
+        font-size: 64px;
+        line-height: 64px;
+    }
+    .title{
+        font-weight: 300;
+        color:#BDBDBD;
+    }
+    .subtitle{
+        font-weight: 700;
+        color: #333333;
+    }
+    .gallery_arrows{
+        display: flex;
+        margin-top: 90px;
+
+        .arrow_container{
+            height: 53px;
+            width: 53px;
+            border: 1px solid #E0E0E0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            &:hover{
+                background-color: #E0E0E0;
+                cursor: pointer;
+            }
+        }
+        .arrow_container+.arrow_container{
+            margin-left: 23px;
+        }
+    }
+    .gallery_pages{
+        margin-top:90px;
+        display: flex;
+        align-items: center;
+        max-width: 142px;
+        justify-content: space-between;
+
+        .page_element{
+            height: 24px;
+            color: #BDBDBD;
+        }
+        .page_stick{
+            height: 2px;
+            width: 45px;
+            background-color: #E0E0E0;
+            transform: rotate(-45deg);
+        }
+    }
+    .gallery_photos{
+        width: 770px;
+        height: 829px;
+        display: flex;
+        align-items: flex-end;
+
+        .gallery_button-block{
+            height: 81px;
+            width: 222px;
+            background-color: #FFFFFF;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 12px;
+            line-height: 12px;
+            font-weight: 400;
+            cursor: pointer;
+
+            & img{
+                margin-left: 12px;
+            }
+        }
+    }
+}

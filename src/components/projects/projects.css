@@ -1,0 +1,91 @@
+.projects_main-container{
+    margin-top: 120px;
+
+    .projects_title{
+        font-size: 64px;
+        line-height: 64px;
+        font-weight: 300;
+        color: #BDBDBD;
+    }
+    .prjects_photo-block{
+        margin-top: 70px;
+
+        .photo_first{
+            display: flex;
+            justify-content: space-between;
+    
+            .first_content-block{
+                height: 255px;
+                width: 570px;
+                background-color: black;
+    
+                .content_info-block{
+                    margin: 0 auto;
+                    background-color: #333333;
+                    opacity: 80%;
+                    height: 255px;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    padding-left: 79px;
+    
+                    .content_title{
+                        font-size: 64px;
+                        line-height: 64px;
+                        font-weight: 700;
+                        color: #FFFFFF;
+                    }
+                    .content_more-info{
+                        margin-top: 14px;
+                        font-size: 12px;
+                        line-height: 12px;
+                        font-weight: 400;
+                        color: #FFFFFF;
+                        max-width: 110px;
+                        max-height: 12px;
+                        display: flex;
+                        justify-content: space-between;
+                        align-items: center; 
+                        cursor: pointer;
+    
+                    }
+                }
+            }
+        }
+        .photo_second{
+            margin-top: 30px;
+            display: flex;
+            justify-content: space-between;
+        }
+    }
+    .project_button-block{
+        display: flex;
+        justify-content: flex-end;
+        margin-top: 30px;
+
+        & :hover{
+            transform: scale(1.1);
+            transition: .3s all;
+            cursor: pointer;
+        }
+
+        .project_button{
+            height: 70px;
+            width: 222px;
+            background-color: #333333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            & div{
+                color:#FFFFFF;
+                font-size: 12px;
+                line-height: 12px;
+                font-weight: 400;
+            }
+            & img{
+                margin-left: 15px;
+            }
+        }
+    }
+}
