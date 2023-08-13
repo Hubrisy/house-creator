@@ -12,8 +12,17 @@ body{
   width: 100%;
   background-color: #FFFFFF;
   font-family: 'TT Hoves';
+  position: relative;
+  z-index: 1;
 }
 .app_main-container{
   margin:0 auto;
   max-width: 1170px;
+}
+
+@media(max-width:955px){
+  .app_main-content{
+    margin-left: 15px;
+  margin-right: 15px;
+  }
 }

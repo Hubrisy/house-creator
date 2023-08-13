@@ -5,7 +5,7 @@ import arrowRight from '../../images/arrowRight-white.svg'
 
 const Contact = () => {
     return (
-        <div className='contact_main-container'>
+        <div className='contact_main-container' id='contacts'>
             <div className='contact_title'>Связаться с нами</div>
             <div className='contact_content'>
                 <div className='contact_input-block'>

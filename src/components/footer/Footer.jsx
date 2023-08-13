@@ -11,18 +11,18 @@ import wtfisthat from '../../images/wtfisthat.svg'
 
 const Footer = () => {
     return (
-        <div className='footer_main-container'>
+        <div className='footer_main-container' id='footer'>
             <div className='footer_content-container'>
                 <div className='footer_logo-block'>
                     <img src={Logo} alt="Logo" />
                 </div>
                 <div className='footer_info-block'>
                     <div className='info_title'>Информация</div>
-                    <div className='info_subtitle'>Главная</div>
-                    <div className='info_subtitle'>Галерея</div>
-                    <div className='info_subtitle'>Проекты</div>
-                    <div className='info_subtitle'>Сертификаты</div>
-                    <div className='info_subtitle'>Контакты</div>
+                    <div className='info_subtitle'><a href='#header'>Главная</a></div>
+                    <div className='info_subtitle'><a href='#gallery'>Галерея</a></div>
+                    <div className='info_subtitle'><a href='#projects'>Проекты</a></div>
+                    <div className='info_subtitle'><a href='#sertificates'>Сертификаты</a></div>
+                    <div className='info_subtitle'><a href='#contacts'>Контакты</a></div>
                 </div>
                 <div className='footer_contact-block'>
                     <div className='contact_title'>
