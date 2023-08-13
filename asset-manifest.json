@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/house-creator/static/css/main.83ff5731.css",
-    "main.js": "/house-creator/static/js/main.347af465.js",
+    "main.js": "/house-creator/static/js/main.6afa3cfb.js",
     "static/js/787.adb94dc3.chunk.js": "/house-creator/static/js/787.adb94dc3.chunk.js",
     "static/media/projectThree.svg": "/house-creator/static/media/projectThree.36065249bc86cde089e2a746f901dfaa.svg",
     "static/media/projectFour.svg": "/house-creator/static/media/projectFour.0d2ac79eecaeb3de329905334d993b5a.svg",
@@ -32,11 +32,11 @@
     "static/media/facebook.svg": "/house-creator/static/media/facebook.12a314b124f47ead9d1424b11aaeb5f9.svg",
     "static/media/goalOne.svg": "/house-creator/static/media/goalOne.54b7836f3ae6d68187cd9ee235fbb842.svg",
     "main.83ff5731.css.map": "/house-creator/static/css/main.83ff5731.css.map",
-    "main.347af465.js.map": "/house-creator/static/js/main.347af465.js.map",
+    "main.6afa3cfb.js.map": "/house-creator/static/js/main.6afa3cfb.js.map",
     "787.adb94dc3.chunk.js.map": "/house-creator/static/js/787.adb94dc3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83ff5731.css",
-    "static/js/main.347af465.js"
+    "static/js/main.6afa3cfb.js"
   ]
 }
