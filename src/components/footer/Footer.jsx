@@ -32,7 +32,7 @@ const Footer = () => {
                         <img src={Location} alt="Location" />
                         <div className='address_descripiton'>
                             <div>100000, Республика  Казахстан,</div>
-                            <div>г. Караганда, ул. Телевизионная 10</div>
+                            <div>г. Караганда, ул. Телевизионная 11</div>
                         </div>
                     </div>
                     <div className='contact_number'>
