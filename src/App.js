@@ -15,14 +15,14 @@ function App() {
       <div className='app_main-container'>
         <div className='app_main-content'>
         <Header />
-        {/* <Gallery />
+        <Gallery />
         <Description />
         <Goals />
         <Projects />
-        <Contact /> */}
+        <Contact />
         </div>
       </div>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
